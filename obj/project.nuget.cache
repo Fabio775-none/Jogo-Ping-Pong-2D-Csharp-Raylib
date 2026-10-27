@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zqK9GqgrJ40=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NENHUM\\source\\repos\\Jogo Pong\\Jogo Pong.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NENHUM\\.nuget\\packages\\raylib-cs\\7.0.2\\raylib-cs.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
